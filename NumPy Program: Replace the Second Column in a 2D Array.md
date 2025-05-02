@@ -25,7 +25,7 @@ print(np.insert(c,1,b,axis=1))
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/7eae7d71-dec2-4a9a-abdb-fe9e925e96c8)
+![image](https://github.com/user-attachments/assets/49a94140-3116-4702-ba56-b5b659b1a98e)
 
 ## RESULT 
 Thus the python program for replacing column in numpy has been implemented and executed 
